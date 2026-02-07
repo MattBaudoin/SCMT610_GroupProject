@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+raw/
+reviews_slim_parquet/
+reviews_text_clean_parquet_chunks/
+
+# Temp files from atomic writes
+*.tmp
+
 # C extensions
 *.so
 
