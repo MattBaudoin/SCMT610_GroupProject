@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-raw/
+Yelp_Dataset/
 reviews_slim_parquet/
 reviews_text_clean_parquet_chunks/
 
