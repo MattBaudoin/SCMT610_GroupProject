@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 Yelp_Dataset/
-reviews_slim_parquet/
-reviews_text_clean_parquet_chunks/
+reviews_slim/
+reviews_text_clean/
+lda_outputs/
 
 # Temp files from atomic writes
 *.tmp
